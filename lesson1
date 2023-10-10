@@ -113,4 +113,3 @@ let result = arrayOfStrings.map(item => {
     return itemResult;
 })
 
-//creat an object
