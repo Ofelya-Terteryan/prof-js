@@ -112,3 +112,5 @@ let result = arrayOfStrings.map(item => {
     let itemResult = arrOfChars.join("");
     return itemResult;
 })
+
+//creat an object
